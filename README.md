@@ -2,6 +2,6 @@
 
 ## screen gif
 
-<p align='center'>
+<p align='start'>
     <img src="assets/screen.gif" width="19%" title="screens"/>
 </p>
